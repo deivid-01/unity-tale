@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 1383be4ed9a3b3547b2e0167b30c0772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7976188867921774385
+    second: cometas inicio1_0
+  - first:
+      213: 3032726198170030642
+    second: cometas inicio1_1
+  - first:
+      213: -790798464695128166
+    second: cometas inicio1_2
+  - first:
+      213: -8811153770054990581
+    second: cometas inicio1_3
+  - first:
+      213: 20049969605228241
+    second: cometas inicio1_4
+  - first:
+      213: 8224796518879014521
+    second: cometas inicio1_5
+  - first:
+      213: -1250459896590393599
+    second: cometas inicio1_6
+  - first:
+      213: -5013082546595631176
+    second: cometas inicio1_7
+  - first:
+      213: -1810155072036038321
+    second: cometas inicio1_8
+  - first:
+      213: 66820505938121560
+    second: cometas inicio1_9
+  - first:
+      213: 6502698959864963082
+    second: cometas inicio1_10
+  - first:
+      213: 1294540459188504355
+    second: cometas inicio1_11
+  - first:
+      213: 9144350491719719703
+    second: cometas inicio1_12
+  - first:
+      213: 4220126243394859154
+    second: cometas inicio1_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cometas inicio1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 215
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ac09560836ae45ae3d33b1e486d36
+      internalID: -7976188867921774385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 853
+        width: 210
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf23ee18ee7534d8cf4c4be33f2166
+      internalID: 3032726198170030642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_2
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 809
+        width: 262
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14507a8e910800d4cac6bca5f119a054
+      internalID: -790798464695128166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 745
+        width: 379
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05286adb627831e438d7a5109197bcf1
+      internalID: -8811153770054990581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 334
+        width: 255
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d782493e6a2f946a936dcd9a6583bc
+      internalID: 20049969605228241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f36a9b9b7008b419ab0eabb544eab3
+      internalID: 8224796518879014521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 503
+        width: 229
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1581faa75b03d45ab446190b5da521
+      internalID: -1250459896590393599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 391
+        width: 215
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14870e9cce35645b2d9aa94f7c6f55
+      internalID: -5013082546595631176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_8
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 403
+        width: 200
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a41283c1ef0b45993e15e3793432a
+      internalID: -1810155072036038321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 215
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ee6751276e734fa9068f0a39694a7
+      internalID: 66820505938121560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 31
+        width: 216
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95e26b972d5f346b3de43292dcd83b
+      internalID: 6502698959864963082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_11
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 259
+        width: 195
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f03ddc64080154eb8f2262c50ad3bf
+      internalID: 1294540459188504355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_12
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 62
+        width: 216
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0365d65e3fcb4ebfe165b0fe22720
+      internalID: 9144350491719719703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometas inicio1_13
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 93
+        width: 294
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3f793ccd8bec4aa0b1ec25fd39f1b
+      internalID: 4220126243394859154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 85bea0c802ed840498442e835e8f51d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
