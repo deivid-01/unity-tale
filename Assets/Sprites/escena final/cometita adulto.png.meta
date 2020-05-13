@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 8adb5c998806b254db43a2b283aea5ae
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5083374249309242019
+    second: cometita adulto_0
+  - first:
+      213: -5002774172682038162
+    second: cometita adulto_1
+  - first:
+      213: -6932279951434220302
+    second: cometita adulto_2
+  - first:
+      213: 3172250279697893736
+    second: cometita adulto_3
+  - first:
+      213: 537249109764812016
+    second: cometita adulto_4
+  - first:
+      213: 1720202058368655225
+    second: cometita adulto_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +87,157 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: cometita adulto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 343
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdface8132324c42b24a1fd45a0652a
+      internalID: -5083374249309242019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometita adulto_1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 177
+        width: 543
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7166606dfd61498ced937c0c9559e
+      internalID: -5002774172682038162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometita adulto_2
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 561
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ea18d36d7a2b43a083c5e1ff624c3
+      internalID: -6932279951434220302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometita adulto_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 360
+        width: 309
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181767d4b5037494c90c8b9c72f2a111
+      internalID: 3172250279697893736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometita adulto_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 487
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f64f5983d3d9a4cb520455bb698498
+      internalID: 537249109764812016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cometita adulto_5
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 161
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d21f144f390584f9b76741d82df2b0
+      internalID: 1720202058368655225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

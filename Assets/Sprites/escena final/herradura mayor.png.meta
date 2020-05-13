@@ -1,7 +1,28 @@
 fileFormatVersion: 2
 guid: 4bbb6c406764591448f6e91826bbd6cc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 936725180277436960
+    second: herradura mayor_0
+  - first:
+      213: 5232201581491350050
+    second: herradura mayor_1
+  - first:
+      213: 7692696420113750063
+    second: herradura mayor_2
+  - first:
+      213: -7537312407846945840
+    second: herradura mayor_3
+  - first:
+      213: 217066892415899007
+    second: herradura mayor_4
+  - first:
+      213: 7478472863250046497
+    second: herradura mayor_5
+  - first:
+      213: -7756183119777908916
+    second: herradura mayor_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +61,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +90,178 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: herradura mayor_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 787
+        width: 141
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4ae75f4d16ba4d8300ade9ac9bc2e
+      internalID: 936725180277436960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 402
+        width: 526
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cda3a88ac83834593414f52c141aae
+      internalID: 5232201581491350050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd00a2485f92f428e237b02e5bfc9d
+      internalID: 7692696420113750063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_3
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 618
+        width: 321
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4119fea44ed94a9af46a16fde2cef
+      internalID: -7537312407846945840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 344
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc78a6fa89dc2a44b4f12e92db089e5
+      internalID: 217066892415899007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 337
+        width: 322
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e31f2a47ccee4b43a1081179fddb93b
+      internalID: 7478472863250046497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herradura mayor_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62304682427123f48b653d387d02309b
+      internalID: -7756183119777908916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

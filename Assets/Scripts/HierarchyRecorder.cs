@@ -1,9 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
 using UnityEditor.Animations;
- 
+
 public class HierarchyRecorder : MonoBehaviour
 {
     // The clip the recording is going to be saved to.
