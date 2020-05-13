@@ -423,9 +423,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0453fe3e2d8ee4d418074434401e9dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 7400000, guid: 87dba1e6815f09543a30ab8cfef2fcaa, type: 2}
-  record: 0
-  m_Recorder: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -702,9 +699,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0453fe3e2d8ee4d418074434401e9dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 7400000, guid: 0d0478d9bbd5b6c4f8f81a3db195352d, type: 2}
-  record: 0
-  m_Recorder: {fileID: 0}
 --- !u!95 &602506661
 Animator:
   serializedVersion: 3
@@ -6255,9 +6249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0453fe3e2d8ee4d418074434401e9dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 7400000, guid: 426a4369e8bb54f478742180df6e3f2b, type: 2}
-  record: 0
-  m_Recorder: {fileID: 0}
 --- !u!95 &1328202913
 Animator:
   serializedVersion: 3
@@ -6372,9 +6363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0453fe3e2d8ee4d418074434401e9dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
-  record: 0
-  m_Recorder: {fileID: 0}
 --- !u!95 &1466000372
 Animator:
   serializedVersion: 3
@@ -6726,9 +6714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0453fe3e2d8ee4d418074434401e9dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 7400000, guid: 3b4275c853799284ba62a545a96090db, type: 2}
-  record: 1
-  m_Recorder: {fileID: 0}
 --- !u!95 &1862895092
 Animator:
   serializedVersion: 3
@@ -6882,7 +6867,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Rombi la cometa
+  m_Text: Rombi la Cometa
 --- !u!222 &1976033679
 CanvasRenderer:
   m_ObjectHideFlags: 0
