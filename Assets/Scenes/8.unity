@@ -437,21 +437,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 290344142989980116, guid: 1fa8242870b07b244be7974478bf583b,
         type: 3}
       propertyPath: m_text
@@ -484,7 +469,43 @@ PrefabInstance:
       propertyPath: m_fontStyle
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 290344142989980115, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344142989980115, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1741.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344142989980115, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.69411767
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 290344142989980116, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
 --- !u!224 &456043325 stripped
 RectTransform:
@@ -492,6 +513,48 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 456043324}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &456043326 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 290344142989980114, guid: 1fa8242870b07b244be7974478bf583b,
+    type: 3}
+  m_PrefabInstance: {fileID: 456043324}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &456043327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456043326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 54cb4d573fbddfd44bd25889db646d94, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Un d\xEDa sali\xF3 a caminar por el parque, solo como siempre, pero entonces
+    vio a lo lejos a dos cometas jugando, eran una fresita y una herradura, pero estas
+    no volaban al jugar, lo que le caus\xF3 mucha curiosidad a Rombi"
 --- !u!1 &620832600
 GameObject:
   m_ObjectHideFlags: 0
@@ -877,21 +940,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0.01
       objectReference: {fileID: 0}
-    - target: {fileID: 6448020430313450383, guid: 773c94dbe95a19645b97d41b423bdf9f,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 6448020430313450383, guid: 773c94dbe95a19645b97d41b423bdf9f,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 88963472399063089, guid: 773c94dbe95a19645b97d41b423bdf9f,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1
-      objectReference: {fileID: 0}
     - target: {fileID: 8054065064469302797, guid: 773c94dbe95a19645b97d41b423bdf9f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -951,6 +999,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -72.090004
+      objectReference: {fileID: 0}
+    - target: {fileID: 88963472399063089, guid: 773c94dbe95a19645b97d41b423bdf9f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448020430313450383, guid: 773c94dbe95a19645b97d41b423bdf9f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448020430313450383, guid: 773c94dbe95a19645b97d41b423bdf9f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 773c94dbe95a19645b97d41b423bdf9f, type: 3}

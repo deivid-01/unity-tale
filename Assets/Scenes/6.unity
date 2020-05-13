@@ -10854,7 +10854,8 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 72
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 290344142989980116, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
 --- !u!224 &2137417935 stripped
 RectTransform:
@@ -10862,3 +10863,43 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 2137417934}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2137417936 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 290344142989980114, guid: 1fa8242870b07b244be7974478bf583b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2137417934}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2137417937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137417936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 92fea3ccdb3918447a5408fce9171922, type: 3}
+    m_FontSize: 141
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 182
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Rombi estaba muy pero muy triste

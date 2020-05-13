@@ -998,7 +998,23 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 258
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 290344142989980115, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344142989980115, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 203.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 290344144194690694, guid: 1fa8242870b07b244be7974478bf583b,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.7058824
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 290344142989980116, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
 --- !u!224 &1411858589 stripped
 RectTransform:
@@ -1006,6 +1022,48 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1411858588}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1411858590 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 290344142989980114, guid: 1fa8242870b07b244be7974478bf583b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1411858588}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1411858591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411858590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 54cb4d573fbddfd44bd25889db646d94, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 80
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Se acerc\xF3 a ellos y noto que al igual que \xE9l tambi\xE9n estaban rotos.
+    Entonces ellos no dudaron en invitarlo a jugar,  ya que ser\xEDa un juego que
+    todos podr\xEDan disfrutar"
 --- !u!1 &1685291672
 GameObject:
   m_ObjectHideFlags: 0

@@ -120,6 +120,47 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &96000679 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 290344142989980114, guid: 1fa8242870b07b244be7974478bf583b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1034956743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &96000680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96000679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 54cb4d573fbddfd44bd25889db646d94, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 132
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Rombi qued\xF3 gravemente herido y su colita se rompi\xF3, el Doctor le
+    dice que jam\xE1s podr\xE1 volver a volar"
 --- !u!1 &198402043
 GameObject:
   m_ObjectHideFlags: 0
@@ -629,7 +670,8 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 55.5
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 290344142989980116, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1fa8242870b07b244be7974478bf583b, type: 3}
 --- !u!224 &1034956744 stripped
 RectTransform:
